@@ -1,6 +1,5 @@
 # Eunomia
 Offline inventory system project
-Offline Inventory System
 This project is an offline inventory system designed to track physical assets
 such as equipment, tools, and components.
 The system is intended for use in colleges, labs, workshops, or small
