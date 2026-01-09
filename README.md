@@ -1,4 +1,4 @@
-# Eunomia
+# B006_Eunomia
 Offline inventory system project
 This project is an offline inventory system designed to track physical assets
 such as equipment, tools, and components.
